@@ -11,7 +11,7 @@ This repository contains the source code for my portfolio website showcasing my 
 - Contact form to allow potential employers and clients to reach out 
 - Footer with links to my social media profiles
 
-## Built With
+## My Skills
 
 - HTML
 - CSS 
