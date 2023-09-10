@@ -1,11 +1,11 @@
-# Omar Alabiyad's Front-End Developer Portfolio
+# Omar Alabyadh Front-End Developer Portfolio
 
-This repository contains the source code for my portfolio website showcasing my work as a front end web developer.
+This repository contains the source code for my portfolio website showcasing my work as a front-end web developer.
 
 ## Website Features
 
 - Header with navigation menu 
-- About section with summary of my skills and experience
+- About section with a summary of my skills and experience
 - Projects section listing and linking to my recent coding projects with descriptions 
 - Skills section listing my proficient technologies and tools
 - Contact form to allow potential employers and clients to reach out 
@@ -22,23 +22,22 @@ This repository contains the source code for my portfolio website showcasing my 
 - Terminal
 - Responsive Design
 
-The website is fully responsive and optimized for mobile, tablet and desktop viewing.
+The website is fully responsive and optimized for mobile, tablet, and desktop viewing.
 
 ## Contact
 
-If you have any questions or would like to discuss a project, please feel free to contact me at [omaralabid2000@gmail.com] or visit my website at [https://omar-alabiyad.github.io/Omar-Alabiyad--Front-end-Developer--Portfolio/]. Thank you for visiting my portfolio!
+If you have any questions or would like to discuss a project, please feel free to contact me at [omaralabyadh@gmail.com] or visit my website at [https://omar-alabyadh.github.io/Portfolio/]. Thank you for visiting my portfolio!
 
 ## Contributing
 
-This is a personal portoflio project. I will not be accepting any pull requests. Feel free to fork this repository and modify it as you wish. Attribution is appreciated but not required.
+This is a personal portfolio project. I will not be accepting any pull requests. Feel free to fork this repository and modify it as you wish. Attribution is appreciated but not required.
 
 ## Author
 
 Omar Alabiyad
 
-- Portfolio Site - [https://omar-alabiyad.github.io/Omar-Alabiyad--Front-end-Developer--Portfolio/]
-(https://omar-alabiyad.github.io/Omar-Alabiyad--Front-end-Developer--Portfolio/)
-- GitHub - [https://github.com/Omar-Alabiyad]
-(https://github.com/Omar-Alabiyad)
-- Linkedin - [https://www.linkedin.com/in/omar-alabid-9503b1bb/]
-(https://www.linkedin.com/in/omar-alabid-9503b1bb/)
+- Portfolio Site - https://omar-alabyadh.github.io/Portfolio/
+
+- GitHub - https://github.com/Omar-Alabiyad/
+
+- Linkedin - https://www.linkedin.com/in/omar-alabyadh-9503b1bb/
