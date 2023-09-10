@@ -390,6 +390,9 @@ header .toggle-btn {
 .home .social a:hover i[class*="linkedin"] {
   color: #0a66c2;
 }
+.home .social a:hover i[class*="whatsapp"] {
+  color: #25d366;
+}
 
 .home .social a i {
   color: var(--a-logoTitle-pUnderMainHeading-wordInsideButton-inputColor);
