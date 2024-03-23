@@ -615,8 +615,8 @@ header .toggle-btn {
 
 .projects::after {
   content: "";
-  border-bottom-left-radius: 50% 60%;
-  border-bottom-right-radius: 50% 60%;
+  border-bottom-left-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
   position: absolute;
   top: 100%;
   width: 100%;
@@ -626,7 +626,7 @@ header .toggle-btn {
 }
 @media (max-width: 991px) {
   .projects::after {
-    height: 4%;
+    height: 2%;
   }
 }
 
@@ -641,7 +641,7 @@ header .toggle-btn {
 }
 @media (max-width: 991px) {
   .contact {
-    padding-top: calc(var(--main-padding-top) + 3rem);
+    /* padding-top: calc(var(--main-padding-top) + 3rem); */
   }
 }
 
