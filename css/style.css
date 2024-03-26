@@ -621,7 +621,7 @@ header .toggle-btn {
   top: 100%;
   width: 100%;
   background: var(--bg-sections);
-  height: 4%;
+  height: 3%;
   z-index: 5;
 }
 @media (max-width: 991px) {
