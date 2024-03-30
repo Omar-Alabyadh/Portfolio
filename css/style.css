@@ -621,12 +621,12 @@ header .toggle-btn {
   top: 100%;
   width: 100%;
   background: var(--bg-sections);
-  height: 3%;
+  height: 7rem;
   z-index: 5;
 }
 @media (max-width: 991px) {
   .projects::after {
-    height: 2%;
+    height: 7rem;
   }
 }
 

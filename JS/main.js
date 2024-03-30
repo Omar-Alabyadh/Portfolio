@@ -21,3 +21,10 @@ toUpBtn.addEventListener("click", function () {
     behavior: "smooth",
   });
 });
+
+/* Current Year Value In The Footer */
+// Get the current year
+const currentYear = new Date().getFullYear();
+
+// Update the content of the 'currentYear' element
+document.querySelector("#currentYear").textContent = currentYear;
