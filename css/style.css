@@ -556,39 +556,39 @@ header .toggle-btn {
   font-weight: bold;
 }
 
-.projects .img-and-info {
+.projects .project {
   display: flex;
   gap: 5rem;
   margin: 7rem 0 10rem;
 }
-.projects .img-and-info:last-child {
+.projects .project:last-child {
   margin-bottom: 0;
 }
 @media (max-width: 991px) {
-  .projects .img-and-info {
+  .projects .project {
     flex-direction: column-reverse;
   }
 }
 
-.projects .img-and-info .image {
+.projects .project .image {
   flex-basis: 50%;
 }
 
-.projects .img-and-info img {
+.projects .project img {
   max-width: 100%;
   border-radius: 10px;
   box-shadow: 0 0 1rem #999;
 }
 
-.projects .img-and-info .info {
+.projects .project .info {
   flex-basis: 50%;
 }
 
-.projects .img-and-info .info .p-section {
+.projects .project .info .p-section {
   margin-bottom: 4rem;
 }
 
-.projects .img-and-info .info a button {
+.projects .project .info a button {
   text-transform: uppercase;
   background-color: var(--color10PERCENT);
   color: white;
@@ -604,11 +604,11 @@ header .toggle-btn {
   align-items: center;
   gap: 1.5rem;
 }
-.projects .img-and-info .info a button:hover {
+.projects .project .info a button:hover {
   transform: translateY(-0.4rem);
 }
 
-.projects .img-and-info .info a button i {
+.projects .project .info a button i {
   font-weight: 600;
   color: #d7d7ee;
 }
