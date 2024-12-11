@@ -38,6 +38,6 @@ Omar Alabiyad
 
 - Portfolio Site - https://omar-alabyadh.github.io/Portfolio/
 
-- GitHub - https://github.com/Omar-Alabiyad/
+- GitHub - https://github.com/Omar-Alabyadh/
 
 - Linkedin - https://www.linkedin.com/in/omar-alabyadh-9503b1bb/
