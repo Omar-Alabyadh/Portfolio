@@ -3,16 +3,16 @@
   
   <br />
 
-  <h2 align="center">Shoppie - eCommerce Website</h2>
+  <h2 align="center">Omar Alabyadh Front-End Developer Portfolio</h2>
 
-  Shoppie is a fully responsive ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  This repository contains the source code for my portfolio website showcasing my work as a front-end web developer.
 
-  <a href="https://codewithsadee.github.io/shoppie/"><strong>➥ Live Demo</strong></a>
+  <a href="https://omar-alabyadh.github.io/Portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
-# Omar Alabyadh Front-End Developer Portfolio
+## Omar Alabyadh Front-End Developer Portfolio
 
 This repository contains the source code for my portfolio website showcasing my work as a front-end web developer.
 
