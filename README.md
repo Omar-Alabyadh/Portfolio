@@ -1,8 +1,5 @@
 <div align="center">
-  
-  
-  <br />
-
+    
   <h2 align="center">Omar Alabyadh Front-End Developer Portfolio</h2>
 
   This repository contains the source code for my portfolio website showcasing my work as a front-end web developer.
@@ -12,9 +9,7 @@
 </div>
 
 <br />
-## Omar Alabyadh Front-End Developer Portfolio
 
-This repository contains the source code for my portfolio website showcasing my work as a front-end web developer.
 
 ## Website Features
 
