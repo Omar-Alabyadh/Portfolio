@@ -15,7 +15,7 @@ This repository contains the source code for my portfolio website showcasing my 
 
 - HTML
 - CSS 
-- React.js
+- Next.js
 - JavaScript
 - Git
 - GitHub
