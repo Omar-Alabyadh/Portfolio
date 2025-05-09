@@ -545,40 +545,100 @@
       </p>
       <div class="container">
         <div class="form-container">
-          <form action="">
+          <form
+            action="http://localhost:3000/contact"
+            method="post"
+            id="contact-form"
+          >
             <div class="form-filed">
               <label for="name">Name</label>
               <input
                 type="text"
                 name="name"
-                id=""
+                id="name"
                 class="form-input"
                 placeholder="Enter Your Name"
+                required
               />
             </div>
             <div class="form-filed">
-              <label for="name">Email</label>
+              <label for="email">Email</label>
               <input
                 type="email"
-                name="name"
-                id=""
+                name="email"
+                id="email"
                 class="form-input"
                 placeholder="Enter Your Email"
+                required
               />
             </div>
             <div class="form-filed">
-              <label for="name">Message</label>
+              <label for="message">Message</label>
               <textarea
-                name=""
-                id=""
+                name="message"
+                id="message"
                 cols="30"
                 rows="10"
                 class="form-input"
                 placeholder="Enter Your Message"
+                required
               ></textarea>
             </div>
             <input type="submit" value="submit" class="section-btn" />
           </form>
+          <!-- Confirmation popup -->
+          <div
+            id="popup-overlay"
+            style="
+              display: none;
+              position: fixed;
+              top: 0;
+              left: 0;
+              width: 100vw;
+              height: 100vh;
+              background: rgba(0, 0, 0, 0.5);
+              z-index: 9999;
+              justify-content: center;
+              align-items: center;
+            "
+          >
+            <div
+              id="confirmation-popup"
+              style="
+                background: white;
+                padding: 20px;
+                border-radius: 10px;
+                box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+                max-width: 90%;
+                text-align: center;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+              "
+            >
+              <p id="confirmation-message"></p>
+              <button
+                id="popup-close"
+                style="
+                  text-transform: uppercase;
+                  background-color: var(--color10PERCENT);
+                  color: white;
+                  border: none;
+                  border-radius: var(--btn-border);
+                  font-size: 1.1rem;
+                  letter-spacing: 1.5px;
+                  padding: 1rem 3rem;
+                  box-shadow: 0rem 0rem 1rem #00000031;
+                  transition: transform var(--main-transition);
+                  cursor: pointer;
+                  margin-top: 2rem;
+                "
+              >
+                Close
+              </button>
+            </div>
+          </div>
         </div>
       </div>
     </div>
