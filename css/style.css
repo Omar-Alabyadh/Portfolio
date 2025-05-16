@@ -260,6 +260,7 @@ header .toggle-btn {
   width: 75%;
   background-color: #f9f9f9;
   backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px); /* لدعم Safari */
   overflow: hidden;
   transition: var(--main-transition);
   border-radius: 6px;
@@ -638,11 +639,6 @@ header .toggle-btn {
   padding-top: var(--main-padding-top);
   padding-bottom: 5rem;
   position: relative;
-}
-@media (max-width: 991px) {
-  .contact {
-    /* padding-top: calc(var(--main-padding-top) + 3rem); */
-  }
 }
 
 .contact .form-container {

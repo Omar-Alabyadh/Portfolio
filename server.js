@@ -14,7 +14,13 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 // Serve static files (like index.html, CSS, etc.)
-app.use(express.static(path.join(__dirname, "..")));
+app.use(express.static(path.join(__dirname)));
+
+// Handle 404 for unknown routes (optional)
+app.get("*", (req, res) => {
+  res.sendFile(path.join(__dirname, "index.html")); // adjust if it's in public/
+});
+
 
 // Handle form submission
 app.post("/contact", async (req, res) => {

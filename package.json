@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "<div align=\"center\">",
   "dependencies": {
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
